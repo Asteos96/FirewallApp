@@ -11,7 +11,7 @@ An AHK script for GTA Online that allows you to temporarily block the connection
 # 📚 Use Cases
 ### 🔁 Fast Heist Restarts
 Specify port `80` in `Advanced Settings > FW Ports`. Fast restarts are useful when completing Elite Challenges or speedrunning.
-- On the heist restart screen, enable the Firewall using the assigned hotkey and vote to restart — `PgUp`.
+- On the heist restart screen, enable the Firewall using the assigned hotkey and vote to restart - `PgUp`.
 - Disable the Firewall once you see the black popup message in the top-left corner. If AutoFW is enabled (in the main window), the script will disable the Firewall automatically.
 - You will return to the session, while the host will be placed back in the Heist Planning Room.
 > If AutoFW doesn't work correctly, try adjusting the delay in `Advanced Settings > AutoFW Delay`. Decrease the delay if you're kicked to the Main Menu after the restart, or increase it if the Firewall disables too early.
