@@ -17,7 +17,7 @@ Specify port `80` in `Advanced Settings > FW Ports`. Fast restarts are useful wh
 > If AutoFW doesn't work correctly, try adjusting the delay in `Advanced Settings > AutoFW Delay`. Decrease the delay if you're kicked to the Main Menu after the restart, or increase it if the Firewall disables too early.
 
 ### 💾 Saving a Heist Finale
-When hosting a heist, specify ports `80, 443` in `Advanced Settings > FW Ports` to save the finale and avoid getting "dirty" money. If you want save the finale and get "dirty" money, block only port `80`
+Specify ports `80, 443` in `Advanced Settings > FW Ports` to save the finale and avoid getting "dirty" money. If you want to save the finale and get the money, block only port `80`
 - Enable the Firewall before triggering the final checkpoint of the heist.
 - On the results screen, an error will appear. Press `Alt+F4` to close the game.
 - Disable the Firewall and start the game.
