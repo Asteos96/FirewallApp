@@ -2,8 +2,6 @@
 An AHK script for GTA Online that allows you to temporarily block the connection to Rockstar servers (by blocking ports) or suspend the game process.
 
 # 📷 Screenshots
-<img width="200" height="330" src="https://github.com/user-attachments/assets/ebf6aab7-8b16-47e4-b7c2-80292d9c59a5" />
-&nbsp;&nbsp;
 <img width="200" height="330" src="https://github.com/user-attachments/assets/855b4b5a-d2df-46fa-b6dc-8ad07d70595e" />
 &nbsp;&nbsp;
 <img width="200" height="330" src="https://github.com/user-attachments/assets/3fbf2479-c3eb-4279-b3b6-b35157cbb0a5" />
