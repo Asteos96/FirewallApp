@@ -1,3 +1,6 @@
+# ❗Important
+AutoFW function is not stable right now, fix is almost ready.
+
 # 📝 Description
 An AHK script for GTA Online that allows you to temporarily block the connection to Rockstar servers (by creating a Firewall rule to block the desired outbound ports) or suspend the game process.
 
